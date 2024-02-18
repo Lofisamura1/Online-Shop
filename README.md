@@ -11,8 +11,9 @@
     <div id="main">
         <h1>Online Shop</h1>
         <img src="https://pngimg.com/uploads/zipper/zipper_PNG35.png">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium ipsum magni, molestias.<p>
+        <p>Покупай, не стесняйся!<p>
         <button id="buy">Купить</button>
     </div>
 </body>
 </html>
+
