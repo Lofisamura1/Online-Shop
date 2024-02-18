@@ -11,7 +11,4 @@
         <img src="https://pngimg.com/uploads/zipper/zipper_PNG35.png">
         <p>Покупай, не стесняйся!<p>
         <button id="buy">Купить</button>
-    </div>
-</body>
-</html>
 
